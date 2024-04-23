@@ -1,7 +1,7 @@
 [{
     "author" : "Fallenight", 
     "name" : "Stasis", 
-    "keyWords" : "",
+    "keyWords" : "keyword1,keyword2",
     "version" : "2.71",
     "dofusVersion" : "2.71", 
     "description" : "", 
